@@ -46,3 +46,6 @@ before moving into next step, it would be better if we test on commend line at f
 sudo wget https://raw.githubusercontent.com/epicure1998/RaspberryPi-Autp-ip-sender-byEmail/master/shellScripts/autoInstall.sh |bash
 ```
 
+Dear headquarter of Gablok:
+ After watching the promotional video about Gablok on Youtube and Tiktok china, I assume the way how Gablok built houses or tenements is going to be an epoch-breaking invention.  Moreover, with the rapid development of China, the Gablok is going to be a big demand in China, therefore I am writing this message to ask you if you are interested in the Chinese market and I am full of passion and resources to be one of your proxy in China.  If you are willing to open the market in China I would like to be the one :)
+Thank you for your time! Looking forward to your reply!
